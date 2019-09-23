@@ -1,0 +1,19 @@
+{
+  "name": "react-lucky-orange",
+  "version": "1.0.0",
+  "description": "React package for Lucky Orange",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RishabhTayal/react-lucky-orange.git"
+  },
+  "author": "Rishabh Tayal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RishabhTayal/react-lucky-orange/issues"
+  },
+  "homepage": "https://github.com/RishabhTayal/react-lucky-orange#readme"
+}
